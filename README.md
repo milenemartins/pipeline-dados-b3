@@ -63,7 +63,7 @@ tech-challenge-fase2-pipeline-b3/
 ### Instalação Local
 
 ```bash
-git clone <url-do-repositorio>
+git clone git@github.com:milenemartins/pipeline-dados-b3.git
 cd tech-challenge-fase2-pipeline-b3
 python -m venv venv
 source venv/bin/activate
