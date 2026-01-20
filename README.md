@@ -142,5 +142,5 @@ data_particao, ticker_completo, dividendos, dados_validos, data_processamento
 - **Parquet** - Formato de armazenamento colunar
 
 ## Autor
-Milene Martins
+Milene Martins<p>
 Projeto desenvolvido para o Tech Challenge Fase 2 - Pós-Tech FIAP
